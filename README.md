@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there 👋, I'm Davit
 
-<!--
-**davidbera1/davidbera1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build Android apps with Kotlin, structure them with clean architecture, and wrestle algorithm puzzles for fun.
 
-Here are some ideas to get you started:
+## 🧠 Coding Challenges
+[![Codewars](https://www.codewars.com/users/davidbera/badges/large)](https://www.codewars.com/users/davidbera)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Contribution Snake](https://raw.githubusercontent.com/davidbera1/snk/manual-run-output/only-svg/github-contribution-grid-snake.svg)
+
+## 📱 Tech Stack
+- **Languages & Platforms:** Kotlin, Android (Jetpack Compose & XML)  
+- **Architectural Patterns:** MVVM | MVI | Clean Architecture  
+- **Core Libraries & Tools:** Hilt, Koin, Room, DataStore, Firebase (Auth, Firestore, Storage)  
+- **Other Skills:** REST APIs, Coroutines, Flow, Unit Testing
+
+## 🚀 Projects
+- CityPark - Feature-rich, modular Android application that streamlines parking reservations, vehicle management, and payment processing
+- Recipedia - Android application created for people who love exploring new recipes for foods and beverages
+- Coming Soon: RunLog - Running tracker app using GPS, background services, and Jetpack Compose
