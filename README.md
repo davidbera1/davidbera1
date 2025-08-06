@@ -14,6 +14,6 @@ I build Android apps with Kotlin, structure them with clean architecture, and wr
 - **Other Skills:** REST APIs, Coroutines, Flow, Unit Testing
 
 ## 🚀 Projects
-- CityPark - Feature-rich, modular Android application that streamlines parking reservations, vehicle management, and payment processing
-- Recipedia - Android application created for people who love exploring new recipes for foods and beverages
-- Coming Soon: RunLog - Running tracker app using GPS, background services, and Jetpack Compose
+- [CityPark](https://github.com/nikolozgabashvili/CityPark) - Feature-rich, modular Android application that streamlines parking reservations, vehicle management, and payment processing
+- [Recipedia](https://github.com/davidbera1/TBC-IT-Academy/tree/midterm_project) - Android application created for people who love exploring new recipes for foods and beverages
+- Coming Soon: [RunLog](https://github.com/davidbera1/RunLog/) - Running tracker app using GPS, background services, and Jetpack Compose
