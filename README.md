@@ -10,7 +10,7 @@ I build Android apps with Kotlin, structure them with clean architecture, and wr
 ## 📱 Tech Stack
 - **Languages & Platforms:** Kotlin, Android (Jetpack Compose & XML)  
 - **Architectural Patterns:** MVVM | MVI | Clean Architecture  
-- **Core Libraries & Tools:** Hilt, Koin, Room, DataStore, Firebase (Auth, Firestore, Storage)  
+- **Core Libraries & Tools:** Hilt, Koin, Room, DataStore, Firebase (Auth, Firestore, Crashlytics, Cloud Messaging)  
 - **Other Skills:** REST APIs, Coroutines, Flow, Unit Testing
 
 ## 🚀 Projects
