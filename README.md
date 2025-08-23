@@ -5,7 +5,7 @@ I build Android apps with Kotlin, structure them with clean architecture, and wr
 ## 🧠 Coding Challenges
 [![Codewars](https://www.codewars.com/users/davidbera/badges/large)](https://www.codewars.com/users/davidbera)
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/davidbera1/snk/71ef2d764e8f3d82834ff23cdefeb2f7a2fd7e03/only-svg/github-contribution-grid-snake.svg)
+![GitHub Contribution Snake](https://github.com/davidbera1/snk/blob/manual-run-output/only-svg/github-contribution-grid-snake.svg)
 
 ## 📱 Tech Stack
 - **Languages & Platforms:** Kotlin, Android (Jetpack Compose & XML)  
