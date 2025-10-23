@@ -14,7 +14,7 @@ I build Android apps with Kotlin, structure them with clean architecture, and wr
 - **Other Skills:** REST APIs, Coroutines, Flow, Unit Testing
 
 ## 🚀 Projects
-- [CityPark](https://github.com/nikolozgabashvili/CityPark) - A feature-rich Android application built with a multi-module architecture that streamlines parking reservations, vehicle management, and payment processing.
+- [CityPark](https://github.com/nikolozgabashvili/CityPark) - A feature-rich Android application built with Jetpack Compose, featuring a multi-module architecture, that streamlines parking reservations, vehicle management, and payment processing.
 - [RunLog](https://github.com/davidbera1/RunLog/) - Running tracker app built with Jetpack Compose, featuring a multi-module architecture, Location Services, Room Database, WorkManager, and Dynamic Feature Modules.
 - [CryptoTracker](https://github.com/davidbera1/CryptoTracker) - Crypto Coin Tracking application built with Jetpack Compose.
-- [Recipedia](https://github.com/davidbera1/TBC-IT-Academy/tree/midterm_project) - Android application created for people who love exploring new recipes for foods and beverages.
+- [Recipedia](https://github.com/davidbera1/TBC-IT-Academy/tree/midterm_project) - Android app built with an XML-based UI, designed for users who enjoy discovering and managing food and beverage recipes.
